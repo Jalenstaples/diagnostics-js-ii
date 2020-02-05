@@ -10,7 +10,9 @@
  */
 function timesTable13(n) {
   // This is your job. :)
-
+  // I'm not sure how to put things into the system correctly, but I beleive some type of for loop is needed to go through each number 1-13
+  //and multiply then a console.log with english statements [i 'times' 13 'is' answer].
+  console.log(result);
   // Use console.log to print out statements like "13 times 5 is 65"
 }
 
